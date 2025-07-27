@@ -1,0 +1,15 @@
+{
+  "bot": {
+    "host": "localhost",
+    "port": 25565,
+    "username": "TestBot",
+    "version": false
+  },
+  "commandPrefix": "!",
+  "plugins": [
+    "auto-login",
+    "core-commands",
+    "navigator",
+    "interactor"
+  ]
+}

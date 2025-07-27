@@ -1,0 +1,10 @@
+{
+  "admins": [
+    "ExampleAdmin"
+  ],
+  "users": {
+    "AnotherPlayer": {
+      "level": 1 
+    }
+  }
+}
