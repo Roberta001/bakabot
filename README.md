@@ -56,8 +56,6 @@ npm install
   },
   "commandPrefix": "!",
   "plugins": [
-    "core-logger",
-    "greeter",
     "core-commands",
     "navigator",
     "interactor",
